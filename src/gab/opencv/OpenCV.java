@@ -343,7 +343,7 @@ public class OpenCV {
     private void init(int w, int h){
     	width = w;
     	height = h;
-		welcome();
+		//welcome();
 		setupWorkingImages();
 		setupFlow();
 		
